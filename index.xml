@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog</title>
-    <link>http://example.org/</link>
+    <link>https://yellowfang.github.io/</link>
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
@@ -10,15 +10,15 @@
     <webMaster>shie44167@gmail.com (yellowfang)</webMaster>
     <lastBuildDate>Thu, 30 Jan 2020 00:50:59 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yellowfang.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello</title>
-      <link>http://example.org/hello/</link>
+      <link>https://yellowfang.github.io/hello/</link>
       <pubDate>Thu, 30 Jan 2020 00:50:59 +0900</pubDate>
       <author>shie44167@gmail.com (yellowfang)</author>
-      <guid>http://example.org/hello/</guid>
+      <guid>https://yellowfang.github.io/hello/</guid>
       <description>여기에 열심히 글을 적습니다.</description>
     </item>
     
