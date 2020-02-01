@@ -8,10 +8,19 @@
     <language>ko-KR</language>
     <managingEditor>shie44167@gmail.com (yellowfang)</managingEditor>
     <webMaster>shie44167@gmail.com (yellowfang)</webMaster>
-    <lastBuildDate>Thu, 30 Jan 2020 00:50:59 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 23:42:43 +0900</lastBuildDate>
     
 	<atom:link href="https://yellowfang.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello1</title>
+      <link>https://yellowfang.github.io/hello1/</link>
+      <pubDate>Sat, 01 Feb 2020 23:42:43 +0900</pubDate>
+      <author>shie44167@gmail.com (yellowfang)</author>
+      <guid>https://yellowfang.github.io/hello1/</guid>
+      <description>aaaaaaaaaaaaaaaaa</description>
+    </item>
     
     <item>
       <title>Hello</title>
@@ -20,7 +29,7 @@
       <author>shie44167@gmail.com (yellowfang)</author>
       <guid>https://yellowfang.github.io/hello/</guid>
       <description>여기에 열심히 글을 적습니다.
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$</description>
+chap 1 chap 2 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$</description>
     </item>
     
   </channel>
